@@ -1,0 +1,29 @@
+#counter {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  #counter-btn {
+    box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.555);
+    width: 70px;
+    margin-right: 10px;
+
+    &:hover {
+      box-shadow: none;
+    }
+  }
+
+  #counter-num {
+    box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.555);
+    background-color: #fff;
+    color: black;
+    border-radius: 50%;
+    padding: 12%;
+    height: 25px;
+    width: 25px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+}

@@ -1,0 +1,23 @@
+// //Require modules
+// const path = require('path');
+
+// //Configuration
+// module.exports = {
+//   //Entry
+//   entry: '',
+
+//   //Output
+//   output: {
+//     path: path.resolve(__dirname, ''),
+//     filename: ''
+//   },
+
+//   //Loaders
+//   module: {
+//     rules: []
+//   },
+
+//   //Plugins
+//   plugins: []
+
+// };
